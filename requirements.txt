@@ -5,6 +5,8 @@ torchaudio
 
 # Essentials
 numpy
+scipy
+matplotlib
 httpx
 pydantic
 pydantic-settings
